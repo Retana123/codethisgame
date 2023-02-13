@@ -1,5 +1,4 @@
 #Set-up Game
-
 #import libraries
 import pygame
 from pygame import *
